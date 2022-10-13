@@ -1,6 +1,6 @@
 # 2022_HandS_Drone_Seminar
 
-## 1. Directory Tree
+## 1. Directory
     /2022_HandS_Drone_Seminar
     ├── Drone_Seminar
     │    ├── 01
